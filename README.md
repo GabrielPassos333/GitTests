@@ -1,6 +1,6 @@
 "Olá, Pepitos!"<br>
 Miauuu
 
-queria ser um gato
-sem escola, sem trabalho
+queria ser um gato <br>
+sem escola, sem trabalho<br>
 apenas miau miau
