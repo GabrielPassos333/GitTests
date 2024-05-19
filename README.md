@@ -8,6 +8,6 @@ apenas miau miau
 Alô Brasil
 tentando e falhando
 
-Auauauau
+<i>Auauauau
 
-"Seria melhor ver o filme do Pelé" Chavez
+*"Seria melhor ver o filme do Pelé"* Chavez
