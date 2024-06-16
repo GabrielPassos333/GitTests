@@ -2,14 +2,14 @@
 
 # EstocaTudo - Sistema de Controle de Estoque
 
-Este projeto foi desenvolvido como parte da avaliação do Projeto Integrador da matéria de Linguagem de Programação na FATEC. O objetivo é aplicar os conhecimentos adquiridos em sala de aula em um projeto prático, envolvendo o desenvolvimento de uma aplicação de front-end para controle de estoque.
+Este projeto foi desenvolvido como parte da avaliação do Projeto Integrador da matéria de Linguagem de Programação na FATEC. O objetivo é aplicar os conhecimentos adquiridos em sala de aula em um projeto prático, envolvendo o desenvolvimento de uma aplicação de front-end para consumir uma API de controle de estoque.
 
 ## Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Acesso à Aplicação
