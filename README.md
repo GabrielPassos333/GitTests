@@ -18,4 +18,4 @@ Existem duas maneiras de acessar a aplicação EstocaTudo:
 
 1. **Acesso Direto via Web**: Você pode acessar a aplicação diretamente pelo navegador através do link: [https://milena-arantes.github.io/testes-Front/](https://milena-arantes.github.io/testes-Front/). Esta é a maneira mais rápida e fácil de visualizar a aplicação em funcionamento.
 
-2. **Execução Local**: Para rodar a aplicação localmente em seu computador, clone este repositório e abra o arquivo `index.html` localizado na raiz da pasta com o seu navegador. Isso permite que você visualize e interaja com a aplicação sem a necessidade de estar online.
+2. **Execução Local**: Para rodar a aplicação localmente em seu computador, clone este repositório e abra o arquivo `index.html` localizado na raiz da pasta com o seu navegador. Isso permite que você visualize e interaja com a aplicação.
