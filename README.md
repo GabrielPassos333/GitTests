@@ -1,6 +1,6 @@
 ![Logo da FATEC](http://www.fatecid.com.br/site/wp-content/uploads/2023/01/logo_site_232.jpg)
 
-# EstocaTudo - Sistema de Controle de Estoque
+# EstocaTudo - Sistema de Controle de EstROQUE
 
 Este projeto foi criado como um complemento visual para as atividades relacionadas ao back-end da matéria de Linguagem de Programação na FATEC. O propósito é enriquecer a experiência de aprendizado, fornecendo uma interface de usuário front-end que interage com uma API de controle de estoque, permitindo uma compreensão mais ampla e aplicada dos conceitos estudados.
 
